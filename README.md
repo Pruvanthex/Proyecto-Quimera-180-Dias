@@ -14,3 +14,5 @@ Mi programa de entrenamiento de 180 días para forjarme como Creador-Técnico.
 
 **Reporte Semanal:**
 * **Semana 1:** [Objetivos de la semana aquí]
+
+-- Sincronización desde Puesto de Mando Avanzado (Laptop) - OK.
