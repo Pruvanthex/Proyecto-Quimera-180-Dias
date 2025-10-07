@@ -18,3 +18,5 @@ Mi programa de entrenamiento de 180 días para forjarme como Creador-Técnico.
 Ultimo cambio para verificar python e instalacion de repositorio en laptop thinkpad
 
 #05-10-25 // Hoy se descansó, realizamos con exito el protocolo del domingo, el debrief no lo pude hacer esta vez, pero se tratara de realizar en los siguientes dias sin falta. la planificacion si se hizo. y el tiempo libre tambien se hizo. hora de descansar.
+
+#07-10-25 // Hoy se realizo hasta el almuerzo todo con exito, lo de python se realizo en la noche hasta ahora, no se volvio ha realizar el ejercicio intenso,ni lo que sigue, hasta la parte final del sueño, Se tratara de mejorar con los dias de completar todo, hoy se realizo el llenado del resumen ejecutivo sobre python.
